@@ -1,0 +1,11 @@
+streamlit~=1.37.1
+joblib~=1.4.2
+numpy~=1.26.4
+pandas~=2.2.2
+scikit-learn~=1.5.1
+seaborn~=0.13.2
+matplotlib~=3.9.2
+statsmodels~=0.14.2
+xgboost~=3.0.2
+scipy~=1.13.1
+imbalanced-learn~=0.12.3
